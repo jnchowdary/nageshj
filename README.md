@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagesh Kumar</h1>
-<h3 align="center">A passionate Fintech and Data Scientist from India</h3>
+<h3 align="center">A passionate Data Analyst and BI Developer from India</h3>
 
 - 💬 Ask me about **python,SQL,Data Visualisation**
 
